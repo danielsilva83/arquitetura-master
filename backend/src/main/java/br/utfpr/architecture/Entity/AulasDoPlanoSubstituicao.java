@@ -27,7 +27,7 @@ public class AulasDoPlanoSubstituicao implements Serializable {
     private String dataDaAulaSubstituida;
     private String quantidadeDeAulas;
 
-       @ManyToOne    
+    @ManyToOne    
     private Professor professorSubstituto;
 
 

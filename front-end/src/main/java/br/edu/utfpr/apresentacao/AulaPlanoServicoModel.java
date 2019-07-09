@@ -14,5 +14,5 @@ public class AulaPlanoServicoModel {
     private String dataDaAulaSubstituida;
     private String quantidadeDeAulas;
     private String professorSubstituto;
-    private Turma turma;
+    private String turma;
 }
